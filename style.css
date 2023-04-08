@@ -21,6 +21,7 @@ p {
   background-color: var(--lightGray);
   -webkit-box-shadow: 3px 8px 19px -1px rgba(0, 0, 0, 0.23);
   box-shadow: 3px 8px 19px -1px rgba(0, 0, 0, 0.23);
+  height: 85vh;
 }
 #top-p {
   color: var(--darkblue);
@@ -36,7 +37,8 @@ p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 200px;
+  max-width: 240px;
+  max-height: 46vh;
   text-align: center;
   border-radius: 8px;
   padding: 0.8rem;
